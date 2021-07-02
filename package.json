@@ -14,5 +14,11 @@
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
-    }
+    },
+    "name": "laravel",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/listingslab-software/laravel.git",
+    "author": "listingslab <listingslab@gmail.com>",
+    "license": "MIT"
 }
